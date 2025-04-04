@@ -16,7 +16,7 @@ O objetivo deste repositório é compartilhar os projetos práticos realizados a
 ## Estrutura do Repositório
 
 - Cada pasta contém os projetos realizados durante os cursos.
-- A organização é feita de acordo com as tecnologias aprendidas e a evolução do estudante.
+- A organização é feita de acordo com as tecnologias aprendidas e a evolução do aprendizado.
   
 ## Como Utilizar
 
